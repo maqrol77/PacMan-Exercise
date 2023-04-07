@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/114756007/229191686-626365c6-14b7-4374
 ## Roadmap for future improvements.
 Add as many pacman as you want and they move back and forth across the screen.
 
-License information:
+## License information:
 
 Copyright © 2023 Camilo Hernandez
 
